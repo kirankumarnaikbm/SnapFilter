@@ -1,3 +1,4 @@
+confirm("Allow camera");
 let captureBtnCont = document.querySelector(".capture-btn-cont");
 let video = document.querySelector('video');
 let flipFlag = false;
